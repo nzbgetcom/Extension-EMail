@@ -1,7 +1,7 @@
 {
     "main": "main.py",
     "name": "EMail",
-    "homepage": "",
+    "homepage": "https://github.com/nzbgetcom/Extension-EMail",
     "kind": "POST-PROCESSING",
     "displayName": "EMail",
     "version": "2.0.0",
