@@ -1,5 +1,8 @@
-> **Note:** This script is compatible with NZBGet v23 and above.
-For older versions of NZBGet please use [v1.0](https://github.com/nzbgetcom/Extension-EMail/releases/tag/v1.0) release.
+## NZBGet Versions
+
+- pre-release v23+  [v2.0](https://github.com/nzbgetcom/Extension-EMail/releases/tag/v2.0)
+- stable  v22 [v1.0](https://github.com/nzbgetcom/Extension-EMail/releases/tag/v1.0)
+- legacy  v21 [v1.0](https://github.com/nzbgetcom/Extension-EMail/releases/tag/v1.0)
 
 # EMail
 EMail [script](https://nzbget.com/documentation/post-processing-scripts/) for [NZBGet](https://nzbget.com).
