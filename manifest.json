@@ -7,7 +7,7 @@
     "version": "2.0.0",
     "author": "Andrey Prygunkov",
     "license": "GNU",
-    "about": "Send E-Mail notification.",
+    "about": "Sends E-Mail notification.",
     "queueEvents": "",
     "requirements": [
         "This script requires Python to be installed on your system."
