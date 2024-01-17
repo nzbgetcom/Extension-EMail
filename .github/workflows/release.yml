@@ -11,4 +11,4 @@ jobs:
     with:
       release-file-list: main.py manifest.json
       release-file-name: email
-      release-dir: email
+      release-dir: EMail
