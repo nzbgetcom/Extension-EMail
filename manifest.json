@@ -4,13 +4,13 @@
     "homepage": "https://github.com/nzbgetcom/Extension-EMail",
     "kind": "POST-PROCESSING",
     "displayName": "EMail",
-    "version": "2.0.0",
+    "version": "2.1",
     "author": "Andrey Prygunkov",
     "license": "GNU",
     "about": "Sends E-Mail notification.",
     "queueEvents": "",
     "requirements": [
-        "This script requires Python to be installed on your system."
+        "This script requires Python 3.8+ to be installed on your system."
     ],
     "description": ["This script sends E-Mail notification when the job is done."],
     "options": [
