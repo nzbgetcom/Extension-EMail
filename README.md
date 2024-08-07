@@ -1,6 +1,6 @@
 ## NZBGet Versions
 
-- stable  v23+ [v1.0](https://github.com/nzbgetcom/Extension-EMail/releases/tag/v2.1)
+- stable  v23+ [v2.1](https://github.com/nzbgetcom/Extension-EMail/releases/tag/v2.1)
 - legacy  v21 [v1.0](https://github.com/nzbgetcom/Extension-EMail/releases/tag/v1.0)
 
 # EMail
